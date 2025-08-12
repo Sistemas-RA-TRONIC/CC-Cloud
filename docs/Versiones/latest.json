@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "installerUrl": "https://example.com/ClockCardADMS-1.2.3.exe",
   "important": false,
   "notesPath": "release-notes/1.2.3.txt"
