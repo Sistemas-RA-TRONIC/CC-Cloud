@@ -1,3 +1,8 @@
 {
-  "ApiUrl": "https://cbarouter.dyndns.org:5106"
+  "ApiUrl": "http://localhost:5106",
+  "Jwt": {
+    "Key": "7NmNEEoK2qu5knrWL4lHFOYBIUNb0gMo",
+    "Issuer": "ClockCardServer",
+    "Audience": "ClockCardClient"
+  }
 }
