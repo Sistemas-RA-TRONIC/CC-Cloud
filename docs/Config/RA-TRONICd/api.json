@@ -1,3 +1,6 @@
 {
-  "ApiUrl": "http://localhost:5106"
+  "ApiUrl": "http://localhost:5106",
+  "JwtKey": "7NmNEEoK2qu5knrWL4lHFOYBIUNb0gMo",
+  "JwtIssuer": "ClockCardServer",
+  "JwtAudience": "ClockCardClient"
 }
