@@ -1,4 +1,3 @@
 {
-  "ApiUrl": "http://cbarouter.dyndns.org:5106"
-
+  "apiUrl": "http://cbarouter.dyndns.org:5106"
 }
