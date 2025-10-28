@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
+  "version": "1.0.0",
   "installerUrl": "https://github.com/Sistemas-RA-TRONIC/CC-Cloud/releases/tag/v1.0.0",
   "important": true,
-  "notesPath": "releaseui-notes/2.0.0.txt"
+  "notesPath": "releaseui-notes/1.0.0.txt"
 }
