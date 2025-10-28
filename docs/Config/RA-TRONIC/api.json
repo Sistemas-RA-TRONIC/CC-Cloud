@@ -1,3 +1,4 @@
 {
-  "apiUrl": "http://localhost:5106"
+  "apiUrl": "http://cbarouter.dyndns.org:5106"
+
 }
