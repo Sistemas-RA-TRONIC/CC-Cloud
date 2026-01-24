@@ -1,0 +1,87 @@
+# Política de Privacidad – CC-Cloud Bot
+
+**Última actualización:** 24 de enero de 2026
+
+## 1. Introducción
+CC-Cloud Bot es un bot de WhatsApp utilizado exclusivamente para el **registro de asistencia** de personal.  
+El bot permite registrar **entradas y salidas**, solicitando la **ubicación geográfica** del usuario en el momento del registro.
+
+El uso del bot implica la aceptación de esta Política de Privacidad.
+
+---
+
+## 2. Datos recopilados
+CC-Cloud Bot recopila únicamente los datos estrictamente necesarios para cumplir su función:
+
+- Número de teléfono del usuario
+- Fecha y hora del registro de asistencia
+- Tipo de registro (entrada o salida)
+- Ubicación geográfica (latitud y longitud) enviada voluntariamente por el usuario
+- Identificación interna del empleado (legajo), cuando corresponda
+
+**No se recopilan otros datos personales.**
+
+---
+
+## 3. Uso de la información
+Los datos recopilados se utilizan **exclusivamente** para:
+
+- Registrar la asistencia del usuario
+- Validar el cumplimiento de políticas internas de la empresa (por ejemplo, geolocalización permitida)
+
+Los datos **no se utilizan con fines comerciales, publicitarios ni de análisis externo.**
+
+---
+
+## 4. Almacenamiento y seguridad
+La información se almacena en sistemas propios de la empresa operadora del servicio, aplicando medidas de seguridad razonables para prevenir accesos no autorizados.
+
+---
+
+## 5. Compartición de datos
+CC-Cloud Bot **NO comparte, vende ni transfiere** datos personales a terceros.
+
+Los datos solo son accesibles por los sistemas internos necesarios para el funcionamiento del servicio.
+
+---
+
+## 6. Uso de WhatsApp
+La comunicación se realiza a través de la **API oficial de WhatsApp (Meta Platforms, Inc.)**.
+
+WhatsApp puede procesar los mensajes conforme a sus propias políticas de privacidad.
+
+---
+
+## 7. Conservación de los datos
+Los datos se conservan únicamente durante el tiempo necesario para cumplir con los fines del registro de asistencia y conforme a las políticas internas de cada empresa usuaria.
+
+---
+
+## 8. Derechos del usuario
+El usuario puede solicitar:
+
+- Acceso a la información almacenada
+- Corrección de datos incorrectos
+- Eliminación de sus datos personales
+
+Para ejercer estos derechos, puede contactar a:
+
+📧 **sistemas@ra-tronic.com**
+
+---
+
+## 9. Eliminación de datos
+Ante una solicitud válida de eliminación de datos, la información asociada al usuario será eliminada de los sistemas en un plazo razonable, salvo que exista una obligación legal de conservación.
+
+---
+
+## 10. Cambios en la política
+Esta Política de Privacidad puede actualizarse ocasionalmente.  
+Las modificaciones se publicarán en esta misma URL.
+
+---
+
+## 11. Contacto
+Para cualquier consulta relacionada con esta Política de Privacidad:
+
+📧 **sistemas@ra-tronic.com**
